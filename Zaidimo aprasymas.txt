@@ -1,0 +1,7 @@
+Battleships Game - Laivų mūšis
+
+Tai žaidimas, kuris buvo kuriamas pagal lietuviškas taisykles.
+Ant x ašies yra išskaidytas žodis respublika, o ant y ašies nurodyti skaičiai nuo 1 iki 10.
+Iš viso laivų yra 10 - 4 vienviečiai, 3 triviečiai, 2 dviviečiai ir 1 vienvietis.
+Žaidimą gali žaisti vienas žaidėjas, kuris turi spėti kur stovi laivas, vis įvesdamas jo koordinates (pvz. r 1).
+Žaidimas tęsiasi tol kol yra nušaunami visi laivai.
